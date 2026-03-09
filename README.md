@@ -9,7 +9,7 @@ donde se guardan en un csv y utiliza ollama llama3 para analizar y darnos un lev
 
 -Instalar Python 3.12
 -Crear entorno
--Instalar Ollama localmente ([text](https://ollama.com/download/windows))
+-Instalar Ollama localmente ([Descargar Ollama](https://ollama.com/download/windows))
 - Instalar dependencias
 
 > Crear entorno
