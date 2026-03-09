@@ -42,11 +42,17 @@ Se deja correr tienen un logging por consola que nos va diciendo en que punto va
 # Estructura del proyecto
 
 ├── main.py              ← orquestador principal
+
 ├── scraper.py           ← extracción de datos 
+
 ├── ai_analysis.py       ← análisis con modelo local via Ollama
+
 ├── dashboard.py         ← generación del dashboard HTML
+
 ├── config.py            ← configuración 
+
 ├── requirements.txt
+
 └── static/
     ├── estilos/
     │   └── dashboard.css
